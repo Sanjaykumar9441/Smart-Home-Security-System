@@ -131,15 +131,15 @@ When any danger is detected:
 
 ## Circuit Diagram
 
-<img src="images/circuit.png" width="800">
+<img src="images/Circuit.png" width="400">
 
 ## Blynk PC Dashboard
 
-<img src="images/PC Dashboard.png" width="800">
+<img src="images/PC Dashboard.png" width="400">
 
 ## Blynk Mobile Dashboard
 
-<img src="images/Mobile Dashboard.jpeg" width="800">
+<img src="images/Mobile Dashboard.jpeg" width="400">
 
 ---
 
